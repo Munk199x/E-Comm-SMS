@@ -1,1 +1,1 @@
-Finay year computing project, E-commerce site and a Stock Management system put together
+An E-commerece site accomodated with a stock management system.
